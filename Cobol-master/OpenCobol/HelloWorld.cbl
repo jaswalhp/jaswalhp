@@ -15,7 +15,7 @@
        MAIN-PROCEDURE.
 
       * The main procedure of the program
-            DISPLAY "Hello world!"
+            DISPLAY "Hello Universe!"
             STOP RUN.
 
        END PROGRAM HELLO-WORLD.
